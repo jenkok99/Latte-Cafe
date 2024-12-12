@@ -109,6 +109,11 @@ body {
     flex-direction: column;
     padding: 200px 0;
 }
+@media (max-width: 991.98px) {
+    .page__about {
+        padding: 100px 0;
+    }
+}
 
 .about {}
 .about__container {}
