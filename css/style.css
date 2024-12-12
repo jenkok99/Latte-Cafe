@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Azeret+Mono:regular,700&display=swap);
 
 /*=====Reset=====*/
-@import url(reset.css);
+@import url("reset.css");
 
 body {
     font-family: "Inter", sans-serif;
